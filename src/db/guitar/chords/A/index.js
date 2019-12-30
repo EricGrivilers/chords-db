@@ -45,6 +45,7 @@ import m_F from './m_F';
 import m_Fsharp from './m_F#';
 import m_G from './m_G';
 import m_Gsharp from './m_G#';
+import _B from './_B';
 import _E from './_E';
 import _F from './_F';
 import _Fsharp from './_F#';
@@ -92,6 +93,7 @@ export default [
   mmaj11,
   add9,
   madd9,
+  _B,
   _Csharp,
   _E,
   _F,

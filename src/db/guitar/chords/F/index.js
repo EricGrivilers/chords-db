@@ -45,6 +45,7 @@ import _E from './_E';
 import _G from './_G';
 import _A from './_A';
 import m_C from './m_C';
+import _Eb from './_Eb';
 
 export default [
   major,
@@ -93,5 +94,6 @@ export default [
   _E,
   _G,
   _A,
-  m_C
+  m_C,
+  _Eb
 ];

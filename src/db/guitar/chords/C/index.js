@@ -39,6 +39,9 @@ import mmaj9 from './mmaj9';
 import mmaj11 from './mmaj11';
 import add9 from './add9';
 import madd9 from './madd9';
+import _B from './_B';
+import _Bd from './_Bd';
+import _D from './_D';
 import _E from './_E';
 import _F from './_F';
 import _G from './_G';
@@ -85,6 +88,9 @@ export default [
   mmaj11,
   add9,
   madd9,
+  _B,
+  _Bd,
+  _D,
   _E,
   _F,
   _G

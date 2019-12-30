@@ -38,6 +38,11 @@ import mmaj9 from './mmaj9';
 import mmaj11 from './mmaj11';
 import add9 from './add9';
 import madd9 from './madd9';
+import _Asharp from './_A#';
+import _Csharp from './_C#';
+import _F from './_F';
+import _E from './_E';
+import _Gsharp from './_G#';
 
 export default [
   major,
@@ -79,5 +84,10 @@ export default [
   mmaj9,
   mmaj11,
   add9,
-  madd9
+  madd9,
+  _Asharp,
+  _Csharp,
+  _F,
+  _E,
+  _Gsharp
 ];
